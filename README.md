@@ -78,5 +78,3 @@ See the `/screenshots` folder for examples of the lab setup and tasks performed.
 ## Author
 Christopher Cambonga
 
-Christopher Cambonga
-
